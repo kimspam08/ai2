@@ -74,10 +74,10 @@ CONTENT_BY_LABEL: dict[str, dict[str, list[str]]] = {
     #   "images": ["https://.../jjampong1.jpg", "https://.../jjampong2.jpg"],
     #   "videos": ["https://youtu.be/XXXXXXXXXXX"]
     # },
-    labels[0] : {"texts" : ["중국식 냉면은 맛있어"], "images" : ["https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.esquirekorea.co.kr%2Farticle%2F67862&psig=AOvVaw1-rCuou9ZkbTNWFuYh82gy&ust=1764027699490000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCNjEttK5iZEDFQAAAAAdAAAAABAE"],
-    labels[1] : {"texts" : ["짜장면은 마싰어"], "images" : ["https://www.google.com/url?sa=i&url=https%3A%2F%2F8dogam.com%2Fproduct%2F3a4004fdb9ba468a24315e080ea480f1%3Fsrsltid%3DAfmBOorn1LQIAnZogFknfcxbY6EPTz4UzDjNvY8ZnD3Xf-BbWAiaCCa2&psig=AOvVaw1POyMTMya8E-mFO_qSmDwH&ust=1764027834094000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCKjo8PS5iZEDFQAAAAAdAAAAABAE"],
-    labels[2] : {"texts" : ["짬뽕은 맛있어"], "images" : ["https://www.google.com/url?sa=i&url=https%3A%2F%2Fnamu.wiki%2Fw%2F%25EC%25A7%25AC%25EB%25BD%2595&psig=AOvVaw22rw7ofYfBv789FTaxNkHR&ust=1764027790711000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCKjHuuC5iZEDFQAAAAAdAAAAABAE"],
-    labels[3] : {"texts" : ["탕수육은 맛있어"], "images" : ["https://www.google.com/url?sa=i&url=https%3A%2F%2Fhomecuisine.co.kr%2Fhc20%2F2073&psig=AOvVaw3mP8bjVEkWI7V94zWgrg1Q&ust=1764027854602000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCPCns_-5iZEDFQAAAAAdAAAAABAE"],
+    labels[0] : {"texts" : ["중국식 냉면은 맛있어"], "images" : ["https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.esquirekorea.co.kr%2Farticle%2F67862&psig=AOvVaw1-rCuou9ZkbTNWFuYh82gy&ust=1764027699490000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCNjEttK5iZEDFQAAAAAdAAAAABAE"]},
+    labels[1] : {"texts" : ["짜장면은 마싰어"], "images" : ["https://www.google.com/url?sa=i&url=https%3A%2F%2F8dogam.com%2Fproduct%2F3a4004fdb9ba468a24315e080ea480f1%3Fsrsltid%3DAfmBOorn1LQIAnZogFknfcxbY6EPTz4UzDjNvY8ZnD3Xf-BbWAiaCCa2&psig=AOvVaw1POyMTMya8E-mFO_qSmDwH&ust=1764027834094000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCKjo8PS5iZEDFQAAAAAdAAAAABAE"]},
+    labels[2] : {"texts" : ["짬뽕은 맛있어"], "images" : ["https://www.google.com/url?sa=i&url=https%3A%2F%2Fnamu.wiki%2Fw%2F%25EC%25A7%25AC%25EB%25BD%2595&psig=AOvVaw22rw7ofYfBv789FTaxNkHR&ust=1764027790711000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCKjHuuC5iZEDFQAAAAAdAAAAABAE"]},
+    labels[3] : {"texts" : ["탕수육은 맛있어"], "images" : ["https://www.google.com/url?sa=i&url=https%3A%2F%2Fhomecuisine.co.kr%2Fhc20%2F2073&psig=AOvVaw3mP8bjVEkWI7V94zWgrg1Q&ust=1764027854602000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCPCns_-5iZEDFQAAAAAdAAAAABAE"]},
                  
 }
 
