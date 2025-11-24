@@ -77,7 +77,7 @@ CONTENT_BY_LABEL: dict[str, dict[str, list[str]]] = {
     labels[0] : {"texts" : ["중국식 냉면은 맛있어"], "images" : ["https://www.esquirekorea.co.kr/resources_old/online/org_online_image/eq/71c93efd-352d-4fb4-8a98-dd1b51475442.jpg"]},
     labels[1] : {"texts" : ["짜장면은 마싰어"], "images" : ["https://image.thebanchan.co.kr/dwmall/static_root/model_img/main/783/78316_1_a.jpg?f=webp&q=80"]},
     labels[2] : {"texts" : ["짬뽕은 맛있어"], "images" : ["https://www.google.com/url?sa=i&url=https%3A%2F%2Fnamu.wiki%2Fw%2F%25EC%25A7%25AC%25EB%25BD%2595&psig=AOvVaw22rw7ofYfBv789FTaxNkHR&ust=1764027790711000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCKjHuuC5iZEDFQAAAAAdAAAAABAE"]},
-    labels[3] : {"texts" : ["탕수육은 맛있어"], "images" : ["https://i.namu.wiki/i/DQPzlCdDvbadZasufp6VhKSLDPHU4YlA1f9GbY2fP9nMvjNOSE32JZxL_ysj2duhcUtcWo-cGQvO_qS3rXctJw.webp"]},
+    labels[3] : {"texts" : ["탕수육은 맛있어"], "images" : ["https://lottemartzetta.com/images-v3/932dcbc7-fca8-4d43-bcde-f73d1ce3cc7d/a61f2aac-935b-461b-93ce-acadbdf34b7f/500x500.jpg"]},
                  
 }
 
